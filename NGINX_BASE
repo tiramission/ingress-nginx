@@ -1,1 +1,1 @@
-registry.k8s.io/ingress-nginx/nginx:v1.3.4@sha256:bbd3844b9513300948dfdfe7db42843f17cd9ff735f47c3553e6f3b18a9a7413
+ghcr.io/kain-jiang/nginx:v2.2.6-nginx1.28.1@sha256:7d06f86059c12dca14dcb2bd801009d8877272808df7a3a59f8f76ad3240889d
